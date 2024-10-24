@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`tenor.js` is a simple and easy-to-use wrapper for the Tenor API, enabling quick and effective integrations for searching and sharing GIFs and stickers. This package simplifies the process of interacting with Tenor's extensive multimedia library.
+`tenor-gif-api` is a simple and easy-to-use wrapper for the Tenor API, enabling quick and effective integrations for searching and sharing GIFs and stickers. This package simplifies the process of interacting with Tenor's extensive multimedia library.
 
 For more detailed information about the Tenor API, visit the [official Tenor API documentation](https://tenor.com/gifapi).
 
