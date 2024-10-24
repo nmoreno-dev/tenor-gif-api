@@ -157,7 +157,7 @@ try {
 
 Contributions are welcome! Please follow these steps:
 
-1. Fork the repository.
+1. Clone the repository.
 2. Create a new branch (git checkout -b feature/my-feature).
 3. Commit your changes (git commit -am 'Add some feature').
 4. Push to the branch (git push origin feature/my-feature).
