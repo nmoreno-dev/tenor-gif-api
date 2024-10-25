@@ -7,7 +7,7 @@
   "files": ["dist/"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmoreno-dev/tenor-gif-ap.git"
+    "url": "git+https://github.com/nmoreno-dev/tenor-gif-api.git"
   },
   "scripts": {
     "start": "ts-node --files -r tsconfig-paths/register src/index.ts",
@@ -25,9 +25,9 @@
   "author": "Nahuel Moreno <nahuelmoreno.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nmoreno-dev/tenor-gif-ap/issues"
+    "url": "https://github.com/nmoreno-dev/tenor-gif-api/issues"
   },
-  "homepage": "https://github.com/nmoreno-dev/tenor-gif-ap#readme",
+  "homepage": "https://github.com/nmoreno-dev/tenor-gif-api#readme",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^22.4.0",
