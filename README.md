@@ -11,7 +11,7 @@ For more detailed information about the Tenor API, visit the [official Tenor API
 Install the package via npm:
 
 ```bash
-npm install tenor.js
+npm install tenor-gif-api
 ```
 
 ## Usage
